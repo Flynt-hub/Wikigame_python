@@ -1,0 +1,15 @@
+Bienvenue dans Wikigame!
+Voici comment s'utilise l'interface : 
+- Dans la barre des menus, se trouvent trois menus : 
+    - Le premier permet de quitter le jeu (mais personne ici ne souhaite ceci?)
+    - Le second menu permet de changer la couleur de l'interface si celui-ci est trop clair/sombre à votre goût
+    - Enfin le dernier... Vous l'avez déjà trouvé!
+- Sous la bannière se trouve le titre de la page sur laquelle vous vous trouvez
+- Sous ce même titre est affiché le résumé de la page sur laquelle vous vous trouver
+- Sous le résumé est affiché la phrase ou le paragraphe dans lequel se trouve le lien que vous avez séléctionné
+- À droite se trouve la liste des liens disponibles sur la page en cours
+- Sous cette liste se présente deux boutons : 
+    - Le premier revient à la page précédente
+    - Le second permet de naviguer vers la page séléctionnée dans la liste
+! Notez que revenir à la page précédente incrémente le compteur de page !
+- Enfin, en bas de page se trouve plusieurs informations utiles pour le jeu
